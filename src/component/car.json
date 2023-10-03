@@ -1,0 +1,502 @@
+ [
+    {
+      "brand": "Volkswagen",
+      "model": "Camry",
+      "type": "Compact",
+      "mileage": "23 mpg",
+      "price": 36801,
+      "year": 2019,
+      "color": "Black",
+      "image_url": "media/car20.jpg"
+    },
+    {
+      "brand": "Toyota",
+      "model": "Elantra",
+      "type": "Truck",
+      "mileage": "30 mpg",
+      "price": 35864,
+      "year": 2018,
+      "color": "Gray",
+      "image_url": "media/car4.jpg"
+    },
+    {
+      "brand": "Hyundai",
+      "model": "C-Class",
+      "type": "SUV",
+      "mileage": "34 mpg",
+      "price": 45786,
+      "year": 2016,
+      "color": "Blue",
+      "image_url": "media/car6.jpg"
+    },
+    {
+      "brand": "Volkswagen",
+      "model": "Elantra",
+      "type": "SUV",
+      "mileage": "26 mpg",
+      "price": 41611,
+      "year": 2021,
+      "color": "Gray",
+      "image_url": "media/car16.jpg"
+    },
+    {
+      "brand": "Tata",
+      "model": "F-150",
+      "type": "Sedan",
+      "mileage": "26 mpg",
+      "price": 20574,
+      "year": 2018,
+      "color": "White",
+      "image_url": "media/car18.jpg"
+    },
+    {
+      "brand": "Honda",
+      "model": "Altima",
+      "type": "Crossover",
+      "mileage": "20 mpg",
+      "price": 37245,
+      "year": 2019,
+      "color": "White",
+      "image_url": "media/car14.jpg"
+    },
+    {
+      "brand": "Hyundai",
+      "model": "3 Series",
+      "type": "Sedan",
+      "mileage": "23 mpg",
+      "price": 34287,
+      "year": 2017,
+      "color": "Silver",
+      "image_url": "media/car12.jpg"
+    },
+    {
+      "brand": "Volkswagen",
+      "model": "Jetta",
+      "type": "SUV",
+      "mileage": "35 mpg",
+      "price": 20486,
+      "year": 2022,
+      "color": "Blue",
+      "image_url": "media/car2.jpg"
+    },
+    {
+      "brand": "Maruti",
+      "model": "A4",
+      "type": "Sedan",
+      "mileage": "35 mpg",
+      "price": 42890,
+      "year": 2019,
+      "color": "Red",
+      "image_url": "media/car14.jpg"
+    },
+    {
+      "brand": "Toyota",
+      "model": "Elantra",
+      "type": "Crossover",
+      "mileage": "32 mpg",
+      "price": 20099,
+      "year": 2023,
+      "color": "Blue",
+      "image_url": "media/car18.jpg"
+    },
+    {
+      "brand": "Tata",
+      "model": "Camry",
+      "type": "Truck",
+      "mileage": "33 mpg",
+      "price": 34287,
+      "year": 2021,
+      "color": "Blue",
+      "image_url": "media/car10.jpg"
+    },
+    {
+      "brand": "Honda",
+      "model": "Altima",
+      "type": "SUV",
+      "mileage": "24 mpg",
+      "price": 35791,
+      "year": 2016,
+      "color": "Black",
+      "image_url": "media/car18.jpg"
+    },
+    {
+      "brand": "Nissan",
+      "model": "Civic",
+      "type": "Crossover",
+      "mileage": "34 mpg",
+      "price": 45786,
+      "year": 2019,
+      "color": "Red",
+      "image_url": "media/car6.jpg"
+    },
+    {
+      "brand": "Hyundai",
+      "model": "C-Class",
+      "type": "Sedan",
+      "mileage": "30 mpg",
+      "price": 44310,
+      "year": 2022,
+      "color": "Red",
+      "image_url": "media/car16.jpg"
+    },
+    {
+      "brand": "Volkswagen",
+      "model": "A4",
+      "type": "Crossover",
+      "mileage": "26 mpg",
+      "price": 34287,
+      "year": 2018,
+      "color": "White",
+      "image_url": "media/car18.jpg"
+    },
+    {
+      "brand": "Ford",
+      "model": "Malibu",
+      "type": "SUV",
+      "mileage": "31 mpg",
+      "price": 34772,
+      "year": 2023,
+      "color": "Red",
+      "image_url": "media/car20.jpg"
+    },
+    {
+      "brand": "Volkswagen",
+      "model": "Malibu",
+      "type": "Crossover",
+      "mileage": "26 mpg",
+      "price": 20574,
+      "year": 2018,
+      "color": "Red",
+      "image_url": "media/car10.jpg"
+    },
+    {
+      "brand": "Toyota",
+      "model": "A4",
+      "type": "Compact",
+      "mileage": "25 mpg",
+      "price": 48989,
+      "year": 2016,
+      "color": "Red",
+      "image_url": "media/car16.jpg"
+    },
+    {
+      "brand": "Nissan",
+      "model": "A4",
+      "type": "Compact",
+      "mileage": "28 mpg",
+      "price": 40767,
+      "year": 2018,
+      "color": "Red",
+      "image_url": "media/car18.jpg"
+    },
+    {
+      "brand": "Hyundai",
+      "model": "3 Series",
+      "type": "Compact",
+      "mileage": "27 mpg",
+      "price": 45616,
+      "year": 2018,
+      "color": "Black",
+      "image_url": "media/car16.jpg"
+    },
+    {
+      "brand": "Toyota",
+      "model": "Altima",
+      "type": "SUV",
+      "mileage": "29 mpg",
+      "price": 37610,
+      "year": 2021,
+      "color": "Black",
+      "image_url": "media/car2.jpg"
+    },
+    {
+      "brand": "Hyundai",
+      "model": "A4",
+      "type": "SUV",
+      "mileage": "23 mpg",
+      "price": 31596,
+      "year": 2020,
+      "color": "Silver",
+      "image_url": "media/car2.jpg"
+    },
+    {
+      "brand": "Ford",
+      "model": "A4",
+      "type": "SUV",
+      "mileage": "33 mpg",
+      "price": 22979,
+      "year": 2021,
+      "color": "Silver",
+      "image_url": "media/car14.jpg"
+    },
+    {
+      "brand": "Toyota",
+      "model": "C-Class",
+      "type": "Sedan",
+      "mileage": "27 mpg",
+      "price": 34287,
+      "year": 2016,
+      "color": "Gray",
+      "image_url": "media/car2.jpg"
+    },
+    {
+      "brand": "Volkswagen",
+      "model": "Camry",
+      "type": "Crossover",
+      "mileage": "34 mpg",
+      "price": 35791,
+      "year": 2023,
+      "color": "Silver",
+      "image_url": "media/car14.jpg"
+    },
+    {
+      "brand": "Hyundai",
+      "model": "3 Series",
+      "type": "Compact",
+      "mileage": "35 mpg",
+      "price": 41611,
+      "year": 2023,
+      "color": "Black",
+      "image_url": "media/car12.jpg"
+    },
+    {
+      "brand": "MG",
+      "model": "C-Class",
+      "type": "Crossover",
+      "mileage": "26 mpg",
+      "price": 18233,
+      "year": 2022,
+      "color": "Red",
+      "image_url": "media/car6.jpg"
+    },
+    {
+      "brand": "Volkswagen",
+      "model": "Jetta",
+      "type": "Truck",
+      "mileage": "22 mpg",
+      "price": 32250,
+      "year": 2015,
+      "color": "Gray",
+      "image_url": "media/car18.jpg"
+    },
+    {
+      "brand": "Honda",
+      "model": "Malibu",
+      "type": "Crossover",
+      "mileage": "34 mpg",
+      "price": 20099,
+      "year": 2016,
+      "color": "Blue",
+      "image_url": "media/car14.jpg"
+    },
+    {
+      "brand": "Audi",
+      "model": "Jetta",
+      "type": "Crossover",
+      "mileage": "34 mpg",
+      "price": 16376,
+      "year": 2018,
+      "color": "Silver",
+      "image_url": "media/car4.jpg"
+    },
+    {
+      "brand": "Tata",
+      "model": "C-Class",
+      "type": "Crossover",
+      "mileage": "26 mpg",
+      "price": 39450,
+      "year": 2023,
+      "color": "Gray",
+      "image_url": "media/car2.jpg"
+    },
+    {
+      "brand": "BMW",
+      "model": "3 Series",
+      "type": "Crossover",
+      "mileage": "26 mpg",
+      "price": 28020,
+      "year": 2018,
+      "color": "White",
+      "image_url": "media/car12.jpg"
+    },
+    {
+      "brand": "MG",
+      "model": "Altima",
+      "type": "Sedan",
+      "mileage": "20 mpg",
+      "price": 35864,
+      "year": 2018,
+      "color": "Blue",
+      "image_url": "media/car6.jpg"
+    },
+    {
+      "brand": "MG",
+      "model": "Jetta",
+      "type": "Compact",
+      "mileage": "34 mpg",
+      "price": 37245,
+      "year": 2018,
+      "color": "Silver",
+      "image_url": "media/car12.jpg"
+    },
+    {
+      "brand": "MG",
+      "model": "Altima",
+      "type": "Compact",
+      "mileage": "26 mpg",
+      "price": 41590,
+      "year": 2019,
+      "color": "White",
+      "image_url": "media/car20.jpg"
+    },
+    {
+      "brand": "BMW",
+      "model": "Jetta",
+      "type": "Compact",
+      "mileage": "34 mpg",
+      "price": 41007,
+      "year": 2021,
+      "color": "Black",
+      "image_url": "media/car2.jpg"
+    },
+    {
+      "brand": "Nissan",
+      "model": "Altima",
+      "type": "Truck",
+      "mileage": "21 mpg",
+      "price": 32339,
+      "year": 2018,
+      "color": "Silver",
+      "image_url": "media/car20.jpg"
+    },
+    {
+      "brand": "MG",
+      "model": "C-Class",
+      "type": "Crossover",
+      "mileage": "34 mpg",
+      "price": 33527,
+      "year": 2016,
+      "color": "Red",
+      "image_url": "media/car4.jpg"
+    },
+    {
+      "brand": "Chevrolet",
+      "model": "Civic",
+      "type": "SUV",
+      "mileage": "27 mpg",
+      "price": 39648,
+      "year": 2017,
+      "color": "Black",
+      "image_url": "media/car2.jpg"
+    },
+    {
+      "brand": "Honda",
+      "model": "3 Series",
+      "type": "Crossover",
+      "mileage": "33 mpg",
+      "price": 45786,
+      "year": 2020,
+      "color": "Black",
+      "image_url": "media/car20.jpg"
+    },
+    {
+      "brand": "Nissan",
+      "model": "Altima",
+      "type": "Sedan",
+      "mileage": "23 mpg",
+      "price": 39882,
+      "year": 2021,
+      "color": "Silver",
+      "image_url": "media/car18.jpg"
+    },
+    {
+      "brand": "Maruti",
+      "model": "Altima",
+      "type": "SUV",
+      "mileage": "23 mpg",
+      "price": 44653,
+      "year": 2019,
+      "color": "Gray",
+      "image_url": "media/car18.jpg"
+    },
+    {
+      "brand": "Nissan",
+      "model": "3 Series",
+      "type": "Truck",
+      "mileage": "30 mpg",
+      "price": 34677,
+      "year": 2015,
+      "color": "White",
+      "image_url": "media/car14.jpg"
+    },
+    {
+      "brand": "Tata",
+      "model": "Altima",
+      "type": "Sedan",
+      "mileage": "29 mpg",
+      "price": 26286,
+      "year": 2022,
+      "color": "Silver",
+      "image_url": "media/car20.jpg"
+    },
+    {
+      "brand": "BMW",
+      "model": "Elantra",
+      "type": "SUV",
+      "mileage": "35 mpg",
+      "price": 32250,
+      "year": 2019,
+      "color": "Black",
+      "image_url": "media/car14.jpg"
+    },
+    {
+      "brand": "Audi",
+      "model": "Malibu",
+      "type": "Crossover",
+      "mileage": "33 mpg",
+      "price": 41590,
+      "year": 2018,
+      "color": "Blue",
+      "image_url": "media/car18.jpg"
+    },
+    {
+      "brand": "Hyundai",
+      "model": "3 Series",
+      "type": "Truck",
+      "mileage": "20 mpg",
+      "price": 37610,
+      "year": 2022,
+      "color": "White",
+      "image_url": "media/car20.jpg"
+    },
+    {
+      "brand": "Volkswagen",
+      "model": "Jetta",
+      "type": "Truck",
+      "mileage": "25 mpg",
+      "price": 35864,
+      "year": 2022,
+      "color": "Red",
+      "image_url": "media/car18.jpg"
+    },
+    {
+      "brand": "MG",
+      "model": "F-150",
+      "type": "Truck",
+      "mileage": "20 mpg",
+      "price": 37245,
+      "year": 2018,
+      "color": "Gray",
+      "image_url": "media/car10.jpg"
+    },
+    {
+      "brand": "Tata",
+      "model": "Civic",
+      "type": "SUV",
+      "mileage": "34 mpg",
+      "price": 45786,
+      "year": 2023,
+      "color": "White",
+      "image_url": "media/car4.jpg"
+    }
+  ]

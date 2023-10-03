@@ -59,7 +59,7 @@ function Cars() {
              <h2 className="text-2xl mr-4 font-bold text-fColor">Buy & Rent Car</h2>
             <form>
               <input
-                className=" text-center p-2 text-lg bg-white-200 text-black w-72 md:w-96 border-2 transition-2  hover:border-blue-300 focus:border-blue-300 rounded-3xl"
+                className=" text-center p-2 text-xl bg-white-200 text-fColor font-popins w-72 md:w-96 border-2 transition-2  hover:border-blue-300 focus:border-blue-300 rounded-3xl"
                 type=""
                 placeholder="Search-Brand,Model,Type"
                 value={search}
@@ -112,7 +112,7 @@ function Cars() {
           </div>
           <div className="flex justify-center items-center gap-2 m-4 ">
           <span
-            className=" pagination text-5xl   "
+            className=" pagination text-4xl   "
             onClick={pervPage}
           >
             <BsFillArrowLeftCircleFill />
@@ -120,15 +120,15 @@ function Cars() {
           {numbers.map((num) => {
             return (
               <span
-                className={`text-2xl flex justify-center items-center  bg-fColor rounded-full text-white  p-1 w-10 h-10 ${
-                  page !== num ? 'active:bg-cdBlue' : ""}`}
+                className={`text-xl flex justify-center items-center  bg-fColor rounded-full text-white  p-1 w-8 h-8 ${
+                  page !== num ? 'active:bg-cdBlue' : ''}`}
                 onClick={() => changePage(num)}
               >
                 {num}
               </span>
             );
           })}
-          <span className="text-5xl text-blue-600" onClick={nextPage}>
+          <span className="text-4xl text-blue-600" onClick={nextPage}>
             <BsFillArrowRightCircleFill />
           </span>
         </div>

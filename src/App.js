@@ -1,5 +1,3 @@
-
-import './App.css';
 import Cars from './component/Cars';
 
 function App() {
